@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Haron</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -44,7 +44,7 @@ export default function Home() {
           >
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Haron Prooof.
             </p>
           </a>
         </div>
